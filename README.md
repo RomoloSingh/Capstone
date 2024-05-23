@@ -1,7 +1,7 @@
 <h1>Enterprise IT Transformation and Security Implementation</h1>
 
 <h2>Description</h2>
-Work in progress for Enterprise IT Transformation and Security Implementation repo..<br />
+Work in progress for Enterprise IT Transformation and Security Implementation repo.<br />
 
 
 <h2>Languages and Utilities Used</h2>
