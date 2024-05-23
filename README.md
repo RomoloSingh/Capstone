@@ -1,7 +1,5 @@
 <h1>Enterprise IT Transformation and Security Implementation</h1>
 
- ### [YouTube Demonstration](https://www.youtube.com/watch?v=dw-dj3FUCCk)
-
 <h2>Description</h2>
 Work in progress for Enterprise IT Transformation and Security Implementation repo..<br />
 
